@@ -9,6 +9,6 @@ public class HelloController {
     @GetMapping("/")
     public String home() {
         return "CI/CD Pipeline Working 🚀" +
-                "mini project by RBT23CB019";
+                "mini project by RBT23CB019"+"Testing";
     }
 }
