@@ -1,4 +1,4 @@
-package controller;
+package com.example.cicddemo.controller;
 
 import com.example.cicddemo.model.User;
 import com.example.cicddemo.repository.UserRepository;
